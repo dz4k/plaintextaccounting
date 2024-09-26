@@ -678,6 +678,7 @@ A rough comparison of the big three PTA apps' features. Improvements welcome.
 - [ledgerble](https://github.com/sbridges/ledgerble) reporting GUI with charts & adjustable reports (Javascript)
 - [ledgerhelpers](https://github.com/Rudd-O/ledgerhelpers) misc. GUI tools + helper library (Python, GTK)
 - [Prudent][prudent] integrated journal editing/importing/reporting GUI for Ledger (Javascript, mac only, closed source)
+- [Fruit Credits](https://codeberg.org/dz4k/fruit-credits) GNOME app for transaction input and basic reports, based on hledger (Vala, GTK)
 
 ### UI, web
 
